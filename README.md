@@ -90,6 +90,5 @@ Statistics Canada + Bank of Canada (Official Data)
 6. Connect Power BI to Synapse or load CSVs directly
 
 ## 📫 Connect
-- **LinkedIn:** linkedin.com/in/thakare26
-- **GitHub:** github.com/AkshayyThakare
-- **Portfolio:** akshay-portfolio1.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/akshay-tanpure/
+- **GitHub:** https://github.com/Akshay-Tanpure
